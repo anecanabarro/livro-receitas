@@ -1,5 +1,5 @@
-### Livro de receitas :yum:
+### Livro de Receitas :yum:
 
-Bem vindo ao meu livro de receitas! Navegue a vontade e veja algumas das minhas comidas favoritas. 
+Bem vindos ao meu livro de receitas! Navegue por aqui e descubra minhas receitas favoritas.
 
 - Ratatouille
